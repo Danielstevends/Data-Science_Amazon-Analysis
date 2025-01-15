@@ -52,28 +52,10 @@ The dataset includes 5.2k reviews from Amazon beauty products, featuring:
 - **Recommendation System**:
   - Provided highly correlated product suggestions based on user-product engagement.
 
-## Challenges
-
-- **Imbalanced Dataset**: High density of 5-star ratings necessitated binary classification.
-- **Sparse Features**: Product-specific features had significant missing values.
-- **Non-Response Bias**: Data reflects a subset of customers who left reviews.
-
-## Future Work
-
-- Explore advanced techniques to handle data imbalance (e.g., downsampling).
-- Incorporate external reviews (e.g., YouTube, Google) for a holistic analysis.
-- Extend recommendation systems to multi-class prediction.
-
-## How to Use
-
-1. **Setup**: Install dependencies listed in `requirements.txt`.
-2. **Run Models**: Execute `predictor.py` to train and test models.
-3. **Recommendation System**: Use `recommender.py` to generate product recommendations.
-
 ## Contact
 
 For questions or feedback, contact:
-- **Daniel Sitompul**: [Your Contact Info]
+- **Daniel Sitompul**: daniel_sitompul@berkeley.edu
 
 ---
 
